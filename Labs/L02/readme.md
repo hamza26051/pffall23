@@ -9,7 +9,9 @@ Q2) ![image](https://github.com/hamza26051/pffall23/assets/142868640/88116829-1d
 
 
 
-Q3) ![image](https://github.com/hamza26051/pffall23/assets/142868640/b20915a1-0dfb-48e2-b16a-62d841e06e40)
+
+Q3) ![image](https://github.com/hamza26051/pffall23/assets/142868640/b4e1f89c-c277-41a6-8870-17ab70778413)
+
 
 
 
@@ -19,3 +21,8 @@ Q4) ![image](https://github.com/hamza26051/pffall23/assets/142868640/184513b5-12
 
 Q5) ![image](https://github.com/hamza26051/pffall23/assets/142868640/2d412bc1-3a9a-4c35-baf2-7f7517327c8c)
 
+
+Q6) ![image](https://github.com/hamza26051/pffall23/assets/142868640/9b624177-9184-4a1d-bcee-9160ac71669b)
+
+
+Q7) ![image](https://github.com/hamza26051/pffall23/assets/142868640/4254fe33-4231-4173-bf17-0648d7f7ad9f)
