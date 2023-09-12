@@ -13,16 +13,11 @@ int n;
 char ch= '*';
 printf("enter a number n");
 scanf("%d", &n);
-int i=0:
+int i=0;
 do  {
-i+=
-} while (i<n)
-int z=0
-do {
-z++
+i++;
+} while (i<n);
+
 printf("*");
-} while (z<=i)
-printf("\n");
-}
 return 0;
 }
